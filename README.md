@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Alejandro Fuentes Camacho</h1>
 
-<!--
-**Jantruca/Jantruca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.png" alt="Banner de Alejandro Fuentes Camacho" width="100%">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+🎓 Estudiante de último año del Grado en Ingeniería de Computadores.  
+📡 Actualmente becado en **Telefónica Global Operations** gracias al programa **Talentum**.  
+💼 Estoy aprendiendo muchísimo en un entorno real y profesional, aplicando conocimientos reales de tecnología.  
+🧪 Este perfil será mi espacio personal para practicar, hacer pruebas y compartir experimentos relacionados con la informática.
+
+</div>
+
+---
+
+### 🔗 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-fuentes-camacho-9a481b343)
