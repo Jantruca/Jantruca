@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 Estudiante de último año del Grado en Ingeniería de Computadores.  
+🎓 Estudiante de último año del Grado en Ingeniería de Computadores en la URJC.  
 📡 Actualmente becado en **Telefónica Global Operations** gracias al programa **Talentum**.  
 💼 Estoy aprendiendo muchísimo en un entorno real y profesional, aplicando conocimientos reales de tecnología.  
 🧪 Este perfil será mi espacio personal para practicar, hacer pruebas y compartir experimentos relacionados con la informática.
