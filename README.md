@@ -7,11 +7,11 @@
 <div align="center">
 
 🎓 Computer Engineering graduate from URJC &nbsp;·&nbsp; TFG: **9/10**
-&nbsp;
+
 ☁️ **AWS Certified Cloud Practitioner** &nbsp;·&nbsp; 🇬🇧 Cambridge B2 English
-&nbsp;
+
 💼 1 year as **Cloud Operations & DevOps Engineer** at Telefónica Innovation Digital (Talentum Program)
-&nbsp;
+
 🚀 Passionate about building robust systems, automating everything, and solving complex technical challenges
 
 </div>
