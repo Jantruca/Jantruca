@@ -10,7 +10,7 @@
 
 ☁️ **AWS Certified Cloud Practitioner** &nbsp;·&nbsp; 🇬🇧 Cambridge B2 English
 
-💼 1 year as **Cloud Operations & DevOps Engineer** at Telefónica Innovation Digital (Talentum Program)
+💼 1 year as **DevOps Engineer** at Telefónica Innovation Digital (Talentum Program)
 
 🚀 Passionate about building robust systems, automating everything, and solving complex technical challenges
 
